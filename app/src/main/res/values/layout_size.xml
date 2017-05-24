@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--顶部状态栏高度-->
+    <dimen name="top_state_height">24dp</dimen>
+    <!--Appbar最小高度-->
+    <dimen name="appbar_min_height">56dp</dimen>
+    <!--底部导航栏高度-->
+    <dimen name="bottom_navigation_height">48dp</dimen>
+    <!--悬浮按钮尺寸-->
+    <dimen name="float_button_size1">56dp</dimen>
+    <dimen name="float_button_size2">40dp</dimen>
+    <!--用户头像尺寸-->
+    <dimen name="photo_size1">64dp</dimen>
+    <dimen name="photo_size2">40dp</dimen>
+    <!--小图标点击区域-->
+    <dimen name="min_icon_click">48dp</dimen>
+    <!--侧边抽屉到屏幕右边的距离-->
+    <dimen name="drawer_margin_right">48dp</dimen>
+    <!--卡片间距-->
+    <dimen name="card_space">8dp</dimen>
+    <!--分隔线上下留白-->
+    <dimen name="separate_line">8dp</dimen>
+
+</resources>

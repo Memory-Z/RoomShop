@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGary">#797979</color>
+
+    <!--主要颜色-->
+    <color name="colorRed">#CE3D3A</color>
+    <color name="colorBlack">#333333</color>
+    <color name="colorBlue">#477AAC</color>
+
+    <!--Normal 用于普通局段落信息、用户名、icon等-->
+    <color name="colorNormal">#666666</color>
+    <!--Minor  用于辅助、次要的文字信息-->
+    <color name="colorMinor1">#888888</color>
+    <color name="colorMinor2">#999999</color>
+    <color name="colorMinor3">#B2B2B2</color>
+    <color name="colorMinor4">#CCCCCC</color>
+    <color name="colorWeak1">#F2F4F5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorHalfTransparentWhite">#50FFFFFF</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+
+    <!--5%  用于分割模块的标题栏底色、动态资源底色-->
+    <!--10% 用于分割线-->
+    <color name="colorDark">#000000</color>
+    <color name="colorHalfTransparentDark">#50000000</color>
+    <color name="color10TransparentDark">#16000000</color>
+    <color name="color5TransparentDrak">#0D000000</color>
+</resources>

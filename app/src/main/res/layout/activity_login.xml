@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TabWidget>
+
+        <FrameLayout
+            android:layout_weight="1"
+            android:id="@android:id/tabcontent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <fragment
+                android:name="com.z.roomshop.fragment.BuyerLoginFragment"
+                android:id="@+id/fragment_buyer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <fragment
+                android:name="com.z.roomshop.fragment.SellerLoginFragment"
+                android:id="@+id/fragment_seller"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </FrameLayout>
+    </RelativeLayout>
+</TabHost>

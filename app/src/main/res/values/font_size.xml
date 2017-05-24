@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_hint_width">100dp</dimen>
+    <dimen name="login_hint_height">48dp</dimen>
+    <dimen name="login_edit_width">200dp</dimen>
+
+    <dimen name="min_hint_font_size">12sp</dimen>
+    <dimen name="hint_font_size">14sp</dimen>
+    <dimen name="min_title_font_size">16sp</dimen>
+    <dimen name="appbar_font_size">20sp</dimen>
+    <dimen name="max_title_font_size">24sp</dimen>
+    <dimen name="extra_large_font_size">34sp</dimen>
+
+</resources>

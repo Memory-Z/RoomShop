@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomShop</string>
+    <string name="login_account">账号：</string>
+    <string name="login_password">密码：</string>
+    <string name="login_register">新用户注册</string>
+    <string name="login_findBackAccount">忘记密码？点击找回</string>
+    <string name="share_goods_name">share_goods_details_name</string>
+    <string name="detail">详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情详情99999999999999999999999999999999999999</string>
+</resources>
